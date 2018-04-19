@@ -10,5 +10,5 @@ NUS Department of Statistics and Applied Probability
 
 ### NOTE:
 1. Respository is for reference only  
-  a. File Paths in Python Notebooks do not correspond to file directories in repository.
+  a. File Paths in Python Notebooks do not correspond to file directories in repository.  
   b. Image Data and Genomics Data are NOT included
